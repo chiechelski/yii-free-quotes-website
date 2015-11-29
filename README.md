@@ -1,5 +1,5 @@
 # QuotesWebsite
-Free quotes website using Yii, Bootstrap 3, jQuery &amp; MySQL 
+Free quotes website using Yii, Bootstrap 3, jQuery &amp; MySQL
 
 ## Setting up
 
@@ -9,13 +9,12 @@ INSTALLATION
 Please make sure the release file is unpacked under a Web-accessible
 directory. You shall see the following files and directories:
 
-      demos/               demos
       framework/           framework source files
       requirements/        requirement checker
       CHANGELOG            describing changes in every Yii release
-      LICENSE              license of Yii
       README               this file
       UPGRADE              upgrading instructions
+      quotesite            project file
 
 
 REQUIREMENTS
@@ -84,4 +83,4 @@ TO DO
 
 ## License
 
-symfony-pinterest-like-project may be freely distributed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License#License_terms).
+yii-free-quotes-website may be freely distributed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License#License_terms).
