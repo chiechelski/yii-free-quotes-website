@@ -1,0 +1,387 @@
+<?php
+    echo '<?xml version="1.0" encoding="UTF-8"?>';
+?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.donedusted.co.nz/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/about-us</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/how-it-works</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/login</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/signup</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/business/new</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/contact-us</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/air-conditioning-and-heating</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/architect</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/building</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/carpentry</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/ceiling</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/electrician</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/fencing-and-gates</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/glass-and-windows</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/handyman</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/insulation</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/interior-design</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/locksmith</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/outdoor-structures</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/others</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/painting-and-wallpaper</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/pest-control</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/plastering</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/plumbing-and-gasfitting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/removalist</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/renovations</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/roofing</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/rubbish-removal</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/security-and-safety</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/tiler</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/trade-services-and-repairs/welding</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/accounting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/content-management-production</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/courier</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/others-bc</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/press-support</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/legal-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/office-support</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/printing-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/professional-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/property-management</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/real-estate-agent</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/signwriter</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/specialised-consulting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/business-and-consulting/translation</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/catering</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/music-bands-dj</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/party-entertainment</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/others-events</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/party-and-event-planning</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/photography-and-videography</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/security</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/venues</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/events/wedding-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/alternative-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/chiropractor-osteopath</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/clothes-alteration</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/esoteric</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/hairdresser</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/manicure-and-pedicure</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/makeup-artist</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/massage</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/nutritionist</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/personal-trainer</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/physiotherapy</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/health-and-beauty/waxing</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/computer-repair</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/graphic-design</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/mobile-apps</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/online-marketing</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/phone-systems</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/computer-and-technology/web-services</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/cleaning</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/dog-training</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/dog-walker</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/gardening</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/home-appliances</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/landscaping</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/pet-boarding</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/pet-grooming</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/pet-sitting</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/category/home-family-and-pets/pool-and-spa</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/terms-and-conditions</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/how-it-works-for-service-providers</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.donedusted.co.nz/login/reset</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<?php foreach ($companies as $company) : ?>
+    <url>
+        <loc>http://www.donedusted.co.nz/s/<?= (!empty($company['Path'])?
+                                                $company['Path'] :
+                                                str_replace(' ', '_', strtolower($company['CompanyName']))) ?></loc>
+        <changefreq>weekly</changefreq>
+    </url>
+<?php endforeach; ?>
+</urlset>
